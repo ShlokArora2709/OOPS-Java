@@ -8,7 +8,7 @@ public class ArraysJ {
 
         //Instantiation(allocates space in memory)
         arr=new int[10];
-
+        arr[1]=4;
         //doing both together
         int arr4[]= new int[10];
 
