@@ -8,7 +8,8 @@ public class Anonymous_class{
         };
         C.eat();
     }
+    abstract static class Child{
+        abstract void eat();
+    }
 }
-interface Child{
-    void eat();
-}
+
