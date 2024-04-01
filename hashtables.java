@@ -17,5 +17,7 @@ public class hashtables{
 
         // Removing elements from the hashtable
         ht.remove("B");
+
+        System.out.println(ht);
     }
 }
